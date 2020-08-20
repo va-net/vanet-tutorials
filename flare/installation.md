@@ -1,3 +1,0 @@
-# Flare Installation
-
-Coming Soon!
