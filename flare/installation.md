@@ -19,7 +19,7 @@ Flare installation is quick and simple. Simply head to your website, where you w
 ![Flare Installation](https://i.ibb.co/rmvGK0y/Screenshot-2020-08-27-Install-Flare.png)
 
 Enter your VA's name (eg. Delta Virtual), callsign prefix (eg. DLVA) and VANet API Key. This API Key is your Airline API Key which can be retrieved 
-from https://vanet.app/airline/. Flare will check that the key you enter is indeed an airline key and not a personal API Key.
+from [https://vanet.app/airline/](https://vanet.app/airline/). Flare will check that the key you enter is indeed an airline key and not a personal API Key.
 
 Next, enter your database details.
 
