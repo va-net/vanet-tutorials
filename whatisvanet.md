@@ -26,3 +26,29 @@ Not a fan of coding? Never fear! The VANet team has pre-made a range of integrat
 - phpVMS 7
 
 You are of course welcome to program your own integration if you want to support a platform that isn't listed here.
+
+## Airport and Aircraft Data
+
+In addition to VA data, VANet also provides data on every airport in the world and every aircraft in Infinite Flight. Through our API, developers can get access to the following data
+
+**Airports**
+
+- ICAO/IATA Code
+- Type (small, medium, large)
+- Name
+- Latitude, Longitude, Elevation
+- Country & City
+- ATC Information including Frequency Type, Description and Frequency (MHz)
+- Runway Information including Length, Width, Identifier(s), Latitude, Longitude, Heading and Displaced Threshold Length
+
+**Aircraft**
+
+- Infinite Flight Aircraft/Livery ID
+- Aircraft/Livery Name
+- Maximum Takeoff Weight
+- Maximum Landing Weight
+- Never Exceed Speed
+- Service Ceiling
+- Range
+- Approx. Normal Approach Speed
+- Maximum Passengers
