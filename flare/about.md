@@ -16,4 +16,4 @@ Nope! We've made sure it's super easy to set up Flare and that no coding is requ
 
 Of course! Flare is available on GitHub [here](https://github.com/va-net/flare/). If you want to help out, fork the repository, make some changes then open a Pull Request. We'll happily take a look at it.
 
-Lucas, the main developer of Flare, also accepts donations via [Patreon](https://patreon.com/rebal15). By helping him out you can get access to beta builds early, a personal thanks in the GitHub repo or even customized plugins made for your VA.
+Lucas, the main developer of Flare, also accepts donations via [Patreon](https://patreon.com/rebal15). By helping him out you can get access to beta updates early, a personal thanks in the GitHub repo or even customized plugins made for your VA.
