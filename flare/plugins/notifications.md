@@ -6,12 +6,10 @@ One of the most popular plugins for Flare is the Notifications plugin. This plug
 
 After installing the Notifications plugin, a **Notifications** page will be added the **Plugins** menu. This page is where you can add your webhooks. Note that there are two webhooks required, the Public one and the Private one. See below for what goes to each webhook.
 
-| Event         | Webhook |
-| ------------- | ------- |
-| PIREP Filed   | Public  |
-| News Added    | Public  |
-| User Applied  | Private |
-| Flare Updated | Private |
+* PIREP Filed: Public
+* News Added: Public
+* User Applied: Private
+* Flare Updated: Private
 
 ## Creating Webhooks
 
