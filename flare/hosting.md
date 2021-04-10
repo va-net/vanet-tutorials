@@ -1,15 +1,17 @@
 # Hosting for Flare
 
-Free hosting is great, but isn't secure at all. Providers such as InfinityFree offer their services for free, but inject JavaScript into your site and control access. **For this reason, VANet does not officially support using InfinityFree for Flare.**
+Free hosting is great, but isn't secure at all. Providers such as InfinityFree offer their services for free, but inject JavaScript into your site and control access. **For this reason, VANet does not officially support using or any free hosting for Flare.**
 
 ### What Does This Mean?
 
 1. When we test Flare, we test it on our local machines. This emulates a paid hosting environment, meaning some features may break on free hosts.
 2. We will not provide hosting-related support for sites using free hosts.
 
-### What are my Alternatives?
+### What are my alternatives?
 
 The recommended platform to host Flare is [Hostinger](https://www.hostinger.com/). Their pricing is very reasonable and have great service. We also support other major hosting sites such as [BlueHost](https://www.bluehost.com/) and will help out where we can.
+
+VANet also partners with [VAHost](https://vahost.org/). VAHost provides completely free managed Flare hosting on Hostinger and quality customer support. VAHost will set up your site for you, all for the low cost of free!
 
 ### What About Self-Hosting?
 
