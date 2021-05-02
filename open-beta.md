@@ -13,7 +13,7 @@ VANet v2 includes the following enhancements.
 -   Public browsing of airport/aircraft data
 -   New developer portal and API Key system
 
-Please note that VANet v2 is only designed to be a rework of VANet v1 with a small amount of new features. All the cool things we've announced over the past few months will come in future updates - this update just sets the stage for that.
+Please note that VANet v2 is only designed to be a rework of VANet v1 with a small number of new features. All the cool things we've announced over the past few months will come in future updates - this update just sets the stage for that.
 
 ## How do I participate?
 
