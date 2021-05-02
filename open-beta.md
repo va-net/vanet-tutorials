@@ -23,6 +23,10 @@ To participate, simply sign up at <https://preview.vanet.app> and use the websit
 
 As part of VANet 2, we have moved to a new authentication system. This means that your airline will still be associated with your old account. Don't worry, everything will still work fine. Just [open a support ticket](https://preview.vanet.app/account/tickets/new) and one of our team will transfer it over to your new account for you.
 
+## Known Issues
+
+-   All email links don't work
+
 ## I found a bug!
 
 Great! Well, not great - but we're glad you've found it now rather than later. **To report it, please [open a support ticket](https://preview.vanet.app/account/tickets/new) with a detailed description of your issue and how to reproduce it.**
