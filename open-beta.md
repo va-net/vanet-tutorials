@@ -17,7 +17,7 @@ Please note that VANet v2 is only designed to be a rework of VANet v1 with a sma
 
 ## How do I participate?
 
-To participate, simply sign up at <https://preview.vanet.app> and use the website as you would normally. You do not need to use the same authentication provider as VANet v1. By signing up, on this site we will assume you are opting into the beta and may contact you with questions or further information.
+To participate, simply sign up at <https://preview.vanet.app> and use the website as you would normally. You do not need to use the same authentication provider as VANet v1. By signing up on this site, we will assume you are opting into the beta and may contact you with questions or further information.
 
 ## What happened to my airline?!
 
