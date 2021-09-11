@@ -11,8 +11,6 @@ Free hosting is great, but isn't secure at all. Providers such as InfinityFree o
 
 The recommended platform to host Flare is [Hostinger](https://www.hostinger.com/). Their pricing is very reasonable and have great service. We also support other major hosting sites such as [BlueHost](https://www.bluehost.com/) and will help out where we can.
 
-VANet also partners with [VAHost](https://vahost.org/). VAHost provides completely free managed Flare hosting on Hostinger and quality customer support. VAHost will set up your site for you, all for the low cost of free!
-
 ### What About Self-Hosting?
 
 Self Hosting is where you host a site (in this case Flare) on your own server. This could be a Raspberry Pi in your house or a server in a datacenter leased by a company like [DigitalOcean](https://digitalocean.com/). These services are cheaper but more involved as you are responsible for maintaining security and installing the relevant services. As such, we assume that if you are self-hosting Flare you have advanced knowledge of the cloud and/or web development, and hence will not provide support for these. However, Flare is still tested on these platforms.
